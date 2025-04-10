@@ -1,0 +1,22 @@
+/* Hierarquia ID > CLASSE > TAG na ordem de cima pra baixo*/
+
+/* FLAG !important sobe para o topo da hierarquia */
+
+#paragrafo{
+    color: brown;
+}
+#paragrafo{
+    color: cadetblue;
+}
+
+.paragrafo{
+    color: blueviolet;
+}
+
+p{
+    color: blue;
+}
+
+p{
+    color: red;
+}
