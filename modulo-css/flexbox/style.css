@@ -44,14 +44,17 @@ main {
   width: 120px;
   height: 120px;
   background-color: blue;
+  order: 1;
 }
 .bloco-2 {
   width: 160px;
   height: 160px;
   background-color: blue;
+  order: 3;
 }
 .bloco-3 {
   width: 200px;
   height: 200px;
   background-color: blue;
+  order: 2;
 }
